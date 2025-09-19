@@ -51,9 +51,9 @@
 ## 🌐 Conecta conmigo
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Fukiu36&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/Fukiu36)
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Yukastael&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/Yukastael)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=YohaldoV&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/YohaldoV)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=YohaldoV&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/yohaldo-edmundo-vega-quinto-a03299286/)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=Yukastael&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/Yukastael)
-[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=yukimaed&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@yukimaed)
+[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=yukimaed&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@yolopgm3688)
 
 
 ---
