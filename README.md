@@ -29,11 +29,14 @@
 <div align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Yukimaed27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yukimaed27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 
-  
   <img align="right" height="200" src="https://i.ppy.sh/9d71a2617414271722b8a6df02757ffd1a4c6d6b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696b79313544506b6c457341414141642f7375697365692d7369702e676966"  />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
